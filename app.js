@@ -89,7 +89,7 @@ iceriGir.addEventListener("click", () => {
     siyahEkran.classList.add("siyahEkranGir");
     setTimeout(() => {
         yonlendiriciBaslik.innerHTML = "Look at that wall...";
-        yonlendiriciMetin.innerHTML = "It looks like there are two writings hung on the wall. Maybe they can give us an idea about what we are doing here.";
+        yonlendiriciMetin.innerHTML = "It looks like there are two writings hung on the wall. Maybe they can give us an idea about what we are doing here. First, grab the one on the left and put it back on the wall after reading. Do the same thing for the one on the right. To put them back on the wall, click the X button on up right corner of the paper.";
 
         kapidakiNot.classList.add("display-none");
         kaleIci.classList.remove("display-none");
